@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["substenvar","Parse src string and replace variables with Environment Variable."],["substitute","Parse src string and replace found variables with `mapfn` result."]],"mod":[["mswin","Provides MS-Windows style substition."],["posix","Provides POSIX style substition."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["substenvar","Substitute environment variable by POSIX format."],["substitute","Parse src and substitute found variables with result of `mapfn`."]]});
